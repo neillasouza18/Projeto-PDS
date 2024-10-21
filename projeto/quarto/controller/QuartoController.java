@@ -30,7 +30,7 @@ public class QuartoController {
         System.out.print("Disponível (true/false): ");
         boolean disponibilidade = Boolean.parseBoolean(scanner.nextLine());
 
-
+        
         System.out.print("Data de início (dd-MM-yyyy): ");
         Date verificaData = null;
 
